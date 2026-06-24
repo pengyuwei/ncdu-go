@@ -1,0 +1,18 @@
+# Build outputs
+/ncdu-go
+/bin/
+/dist/
+/build/
+
+# Go test/build artifacts
+*.test
+*.out
+coverage.out
+
+# Logs
+*.log
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
